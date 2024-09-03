@@ -1,0 +1,18 @@
+ 4) Descubra a lógica e complete o próximo elemento:
+
+ a) 1, 3, 5, 7, 9
+ R: Os elementos crescem de 2 em 2;
+
+ b) 2, 4, 8, 16, 32, 64, 128
+ R: os elementos dobram a cada interação;
+
+ c) 0, 1, 4, 9, 16, 25, 36, 49
+ R: Os valores são acrescidos através de sua potencia ex: 6^2 = 36, 7^2 = 49;
+
+ d) 4, 16, 36, 64, 100
+ R: Segue a lógica anterior com números pares;
+
+ e) 1, 1, 2, 3, 5, 8, 13
+ Segue a sequencia Fibonacci do exercicio 1;
+
+ f) 2,10, 12, 16, 17, 18, 19, não consegui identificar padrão.
