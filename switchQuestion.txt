@@ -1,0 +1,8 @@
+ - Ligar o primeiro interruptor e deixar ligado por alguns minutos. Depois desligalo.
+ - Ligar o segundo interruptor e deixa-lo ligado.
+ - O terceiro não acionar.
+
+ Resposta: Para descobrir as lampadas e seus respectivos interruptores:
+ - Podemos verificar a lampada que permaneceu ligada visualmente.
+ - A que estiver quente, corresponde a que ficou alguns minutos ligada. 
+ - E o interruptor que não foi acionado corresponde a lampada que estiver mais fria.
